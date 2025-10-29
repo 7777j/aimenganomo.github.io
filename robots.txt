@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aimenganomo.github.io/sitemap.xml
+
+# Informations de contact
+# Portfolio officiel de Aime Nganomo
+# https://aimenganomo.github.io
